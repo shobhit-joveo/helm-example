@@ -3,7 +3,7 @@ entries:
   grafana:
   - apiVersion: v2
     appVersion: 8.3.3
-    created: "2021-12-17T20:10:15.451625+05:30"
+    created: "2021-12-17T20:20:57.336809+05:30"
     description: The leading tool for querying and visualizing time series and metrics.
     digest: fc2a1cd4dc712e211af8dc9810c0368365a765689acc03bf35239476ce570823
     home: https://grafana.net
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://shobhit-joveo.github.io/helm-example/grafana-6.20.1.tgz
     version: 6.20.1
-generated: "2021-12-17T20:10:15.447677+05:30"
+generated: "2021-12-17T20:20:57.331717+05:30"
